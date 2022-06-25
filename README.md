@@ -91,3 +91,8 @@ New Dark Mode Texture for the Diamond Armor!
 Beta: New Feature that allows you to see how much Hunger Points consumable items give
 
 (Icon is buggy and Languages not fully added so thats why its in Beta)
+
+# Downloads
+Download as .mcpack: https://github.com/CREEPER240/CR24-Texture/raw/main/CR24-Texturepack.mcpack
+
+Dowload as .zip: https://github.com/CREEPER240/CR24-Texture/raw/main/CR24-Texturepack.zip
